@@ -1,17 +1,9 @@
 {
   "notes": [
     {
-      "title": "Test Title",
-      "text": "Test text"
-    },
-    {
-      "title": "Hello, World!",
-      "text": "Example Test"
-    },
-    {
-      "title": "Note 2",
-      "text": "text",
-      "id": "57451f1a-3d3c-435a-9349-24352899b410"
+      "title": "First Note",
+      "text": "Enter other details here",
+      "id": "4044b06b-f3ce-4f47-9b5f-7f61fa8a0799"
     }
   ]
 }
