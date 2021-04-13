@@ -1,1 +1,17 @@
-[{"title":"Test Title","text":"Test text"}]
+{
+  "notes": [
+    {
+      "title": "Test Title",
+      "text": "Test text"
+    },
+    {
+      "title": "Hello, World!",
+      "text": "Example Test"
+    },
+    {
+      "title": "Note 2",
+      "text": "text",
+      "id": "57451f1a-3d3c-435a-9349-24352899b410"
+    }
+  ]
+}
